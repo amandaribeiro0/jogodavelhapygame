@@ -1,2 +1,5 @@
 # jogodavelhapygame
-Jogo da Velha feito com Pygame.
+Jogo da velha feito usando a biblioteca Pygame.
+
+
+Em processo.
